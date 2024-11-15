@@ -1,0 +1,1 @@
+import { maFonction } from "./scrupt.js";
